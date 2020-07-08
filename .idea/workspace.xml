@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c417d806-0684-44f5-85ad-d3dfbe1347a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/General-Store.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bases/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/properties/ConfigTests.config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/application/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/application/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/application/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/application/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bases/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bases/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/application/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/application/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/application/Login.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +38,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ProjectOld/portal-end-to-end-tests/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pablo\source\repos\APPIUM_PROGRAMMING\com.mobileautomation\src" />
+      <recent name="C:\Users\pablo\source\repos\APPIUM_PROGRAMMING\com.mobileautomation\src\main" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="application" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pablo\source\repos\APPIUM_PROGRAMMING\com.mobileautomation\src\main" />
       <recent name="C:\Users\pablo\source\repos\APPIUM_PROGRAMMING\com.mobileautomation\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/pablo/source/repos/APPIUM_PROGRAMMING/com.mobileautomation/src/testng.xml">
     <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.Login" />
       <module name="com.mobileautomation" />
@@ -59,8 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/pablo/source/repos/APPIUM_PROGRAMMING/com.mobileautomation/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.mobileautomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/pablo/source/repos/APPIUM_PROGRAMMING/com.mobileautomation/src/testng.xml" />
         <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
@@ -96,38 +116,38 @@
     </state>
     <state x="521" y="134" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1590846709601" />
     <state x="2383" y="118" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590961737300" />
-    <state width="1323" height="187" key="GridCell.Tab.0.bottom" timestamp="1590962381602">
+    <state width="1323" height="187" key="GridCell.Tab.0.bottom" timestamp="1590962578725">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962381602" />
-    <state width="1323" height="187" key="GridCell.Tab.0.center" timestamp="1590962381601">
+    <state width="1323" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962578725" />
+    <state width="1323" height="187" key="GridCell.Tab.0.center" timestamp="1590962578725">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="187" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962381601" />
-    <state width="1323" height="187" key="GridCell.Tab.0.left" timestamp="1590962381601">
+    <state width="1323" height="187" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962578725" />
+    <state width="1323" height="187" key="GridCell.Tab.0.left" timestamp="1590962578725">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="187" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962381601" />
-    <state width="1323" height="187" key="GridCell.Tab.0.right" timestamp="1590962381601">
+    <state width="1323" height="187" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962578725" />
+    <state width="1323" height="187" key="GridCell.Tab.0.right" timestamp="1590962578725">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="187" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962381601" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1590961819501">
+    <state width="1323" height="187" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962578725" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1590962578725">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590961819501" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1590961819501">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962578725" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1590962578725">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590961819501" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1590961819501">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962578725" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1590962578725">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590961819501" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1590961819501">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962578725" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1590962578725">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590961819501" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590962578725" />
     <state x="2104" y="6" key="SettingsEditor" timestamp="1590625613227">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
@@ -136,11 +156,12 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1590846567792" />
-    <state x="73" y="74" key="new project wizard" timestamp="1590846735777">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2011" y="93" key="new project wizard" timestamp="1594170372965">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="73" y="74" key="new project wizard/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1590846735777" />
     <state x="1985" y="65" key="new project wizard/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1590627249700" />
+    <state x="2011" y="93" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594170372965" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
